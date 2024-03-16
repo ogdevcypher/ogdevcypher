@@ -1,4 +1,4 @@
-[!MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu02yYNEIXV5KoaQkupKekUfMoZMlaTkzCNw&usqp=CAU)
+[[!MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu02yYNEIXV5KoaQkupKekUfMoZMlaTkzCNw&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Og Dev Cypher</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://lottiefiles.com/animations/hacker-8EXkwqElOV?from=search">
